@@ -5,6 +5,4 @@
 This is my body</body>
 <table>
 </table>
-<tr>
-</tr>
 </html>
